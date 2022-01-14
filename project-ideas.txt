@@ -1,0 +1,14 @@
+Project:
+- create an app like twitter except it revolves around basketball content
+
+MVP/Features:
+- Users have their own accounts (login/password)
+- Able to put up posts of recent games or players
+- Users can write posts
+- Users can delete/read posts
+- Users can look up NBA players using API
+- Posts will be saved to a database
+
+Extra features:
+- able to create own teams of 5 players and play a simulation match with other teams
+- upload videos of highlights
